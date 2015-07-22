@@ -1,0 +1,9 @@
+{
+	"name": "andrelohmann-silverstripe/translatable-dataobject",
+	"type": "silverstripe-module",
+	"require": {
+		"php": ">=5.4",
+		"composer/installers": "*"
+	},
+	"minimum-stability": "stable"
+}
